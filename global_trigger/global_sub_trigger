@@ -4579,6 +4579,82 @@
         "trigger_name": "\u9053\u5177\u62fe\u8d77", 
         "valid": true
     }, 
+    "773300281": {
+        "action": [
+            {
+                "action_type": "ADD_MODIFIER", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [], 
+                        "sub_type": "GET_UNIT_FROM_EVENT"
+                    }, 
+                    {
+                        "arg_type": 100046, 
+                        "args_list": [
+                            134219638
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 773300281000010, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            3
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100044, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            10026
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 773300281000006, 
+                "enable": true, 
+                "event_type": "UNIT_REGION_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 773300281, 
+        "trigger_name": "\u80fd\u91cf\u704c\u6ce8", 
+        "valid": true
+    }, 
     "863993900": {
         "action": [
             {
