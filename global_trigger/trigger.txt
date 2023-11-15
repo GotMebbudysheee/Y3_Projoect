@@ -3,6 +3,7 @@
     "key": -1, 
     "key_order": {
         "KF0OsLKSEe2XPAD-+E6xse": 2, 
+        "VlY-T4OWEe6ANLQumaC8eN": 41, 
         "k-yOwLG2Ee2YRwD-+E6xsS": 1
     }, 
     "name": "trigger", 
@@ -278,6 +279,34 @@
             "items": [
                 773300281, 
                 "\u80fd\u91cf\u704c\u6ce8"
+            ]
+        }, 
+        "42": {
+            "__tuple__": true, 
+            "items": [
+                2013290557, 
+                "WASD"
+            ]
+        }, 
+        "43": {
+            "__tuple__": true, 
+            "items": [
+                1532583998, 
+                "\u591a\u4e2a\u80fd\u91cf\u7403"
+            ]
+        }, 
+        "44": {
+            "__tuple__": true, 
+            "items": [
+                1592307775, 
+                "\u5b88\u536b\u751f\u6210"
+            ]
+        }, 
+        "45": {
+            "__tuple__": true, 
+            "items": [
+                929140800, 
+                "\u602a\u7269\u5237\u65b0\uff08\u8ba1\u65f6\u5668\uff09"
             ]
         }
     }
