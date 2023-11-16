@@ -117,6 +117,18 @@
                 "player": 0
             }
         }, 
+        "518086721": {
+            "variable_dict": {
+                "PROJECTILE_ENTITY": {
+                    "Magical Ball": 0, 
+                    "explosion": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Magical Ball": 0, 
+                "explosion": 0
+            }
+        }, 
         "524156982": {
             "variable_dict": {
                 "UNIT_ENTITY": {
